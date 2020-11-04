@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T06:12:54.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="hqicK7MA_rJPSXCVQ4bO" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-04T06:42:44.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="5pCjgnGb-55rMznvydCA" version="13.8.9-1" type="github" pages="2">
   <diagram id="ycEjqVpXePG6-zR8Ts4k" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gYwR9wuQ0LgiettD__NA" name="Page-2">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NHsGxugJHeJ47fLCuOwB-0" />
         <mxCell id="NHsGxugJHeJ47fLCuOwB-1" parent="NHsGxugJHeJ47fLCuOwB-0" />
@@ -159,12 +159,12 @@
         <mxCell id="opDHGj3kt1pHzsEfuQZG-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="opDHGj3kt1pHzsEfuQZG-19" vertex="1">
           <mxGeometry x="15" y="335" width="10" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="opDHGj3kt1pHzsEfuQZG-26" value="获取目睹身份赋予接口" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-2" target="opDHGj3kt1pHzsEfuQZG-25" edge="1">
+        <mxCell id="opDHGj3kt1pHzsEfuQZG-26" value="获取目睹直播间链接" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-2" target="opDHGj3kt1pHzsEfuQZG-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="opDHGj3kt1pHzsEfuQZG-27" value="身份授予连接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-25" edge="1">
+        <mxCell id="opDHGj3kt1pHzsEfuQZG-27" value="目睹直播间链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="343" as="targetPoint" />
           </mxGeometry>
@@ -199,7 +199,7 @@
             <mxPoint x="48" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="opDHGj3kt1pHzsEfuQZG-36" value="携带oa 美事token访问直播间" style="html=1;verticalAlign=bottom;endArrow=block;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-2" target="opDHGj3kt1pHzsEfuQZG-42" edge="1">
+        <mxCell id="opDHGj3kt1pHzsEfuQZG-36" value="打开生成的链接 链接包含oa和美事token" style="html=1;verticalAlign=bottom;endArrow=block;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-2" target="opDHGj3kt1pHzsEfuQZG-42" edge="1">
           <mxGeometry x="-0.0384" relative="1" as="geometry">
             <mxPoint x="530" y="410" as="sourcePoint" />
             <mxPoint x="430" y="400.0000000000001" as="targetPoint" />
@@ -209,7 +209,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="opDHGj3kt1pHzsEfuQZG-40" value="调用token校验接口" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="NHsGxugJHeJ47fLCuOwB-1" target="opDHGj3kt1pHzsEfuQZG-39" edge="1" source="opDHGj3kt1pHzsEfuQZG-19">
+        <mxCell id="opDHGj3kt1pHzsEfuQZG-40" value="调用token校验接口" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="NHsGxugJHeJ47fLCuOwB-1" source="opDHGj3kt1pHzsEfuQZG-19" target="opDHGj3kt1pHzsEfuQZG-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="550" as="sourcePoint" />
           </mxGeometry>
@@ -220,7 +220,7 @@
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kTczuSwHEZBX5IsBUMiD-2" value="返回是否合法" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="NHsGxugJHeJ47fLCuOwB-1" target="opDHGj3kt1pHzsEfuQZG-42">
+        <mxCell id="kTczuSwHEZBX5IsBUMiD-2" value="返回是否合法" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="NHsGxugJHeJ47fLCuOwB-1" target="opDHGj3kt1pHzsEfuQZG-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="620" as="targetPoint" />
             <mxPoint x="460" y="536" as="sourcePoint" />
