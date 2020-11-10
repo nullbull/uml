@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T05:43:04.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Dh4aitNAENFe3hJ9SmLb" version="13.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-10T06:08:26.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="bLly0EZSNLj_gDwhiA6E" version="13.9.2" type="github" pages="4">
   <diagram id="ycEjqVpXePG6-zR8Ts4k" name="Page-1">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,19 +443,19 @@
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgxOFCT6jd35neGacl9y-22" value="返回是否合法" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="KgxOFCT6jd35neGacl9y-1" target="KgxOFCT6jd35neGacl9y-12" edge="1">
+        <mxCell id="KgxOFCT6jd35neGacl9y-22" value="返回是否合法" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="KgxOFCT6jd35neGacl9y-1" target="KgxOFCT6jd35neGacl9y-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="620" as="targetPoint" />
-            <mxPoint x="460" y="536" as="sourcePoint" />
+            <mxPoint x="470" y="536" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgxOFCT6jd35neGacl9y-23" value="session-id" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.44;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.36;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KgxOFCT6jd35neGacl9y-1" source="KgxOFCT6jd35neGacl9y-9" edge="1" target="KgxOFCT6jd35neGacl9y-5">
+        <mxCell id="KgxOFCT6jd35neGacl9y-23" value="user-token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.44;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.36;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KgxOFCT6jd35neGacl9y-1" source="KgxOFCT6jd35neGacl9y-9" edge="1" target="KgxOFCT6jd35neGacl9y-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="350" as="sourcePoint" />
             <mxPoint x="300" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgxOFCT6jd35neGacl9y-28" value="session-id，oa，clientType" style="html=1;verticalAlign=bottom;endArrow=block;" parent="KgxOFCT6jd35neGacl9y-1" target="KgxOFCT6jd35neGacl9y-8" edge="1">
+        <mxCell id="KgxOFCT6jd35neGacl9y-28" value="user-token，oa，clientType" style="html=1;verticalAlign=bottom;endArrow=block;" parent="KgxOFCT6jd35neGacl9y-1" target="KgxOFCT6jd35neGacl9y-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="301" y="710" as="sourcePoint" />
           </mxGeometry>
