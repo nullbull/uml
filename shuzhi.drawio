@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:12:31.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="Nhrlpk94bAjj39qyjHxs" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T11:14:06.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="LcgR9oIHC-fj7IknHy11" version="13.9.3" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sxI7bLIg5NEw1aMQBNPB-42" value="WJob" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="386" width="60" height="44" as="geometry" />
+          <mxGeometry x="660" y="386" width="60" height="44" as="geometry" />
         </mxCell>
         <mxCell id="sxI7bLIg5NEw1aMQBNPB-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-128.png" vertex="1" parent="1">
-          <mxGeometry x="408.5" y="590" width="93" height="93" as="geometry" />
+          <mxGeometry x="343.5" y="580" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="sxI7bLIg5NEw1aMQBNPB-55" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="616.5" width="71.43" height="60" as="geometry" />
+          <mxGeometry x="230" y="606.5" width="71.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sxI7bLIg5NEw1aMQBNPB-56" value="日志收集器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="386" width="440" height="27" as="geometry" />
@@ -37,8 +37,11 @@
         <mxCell id="sxI7bLIg5NEw1aMQBNPB-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sxI7bLIg5NEw1aMQBNPB-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="sxI7bLIg5NEw1aMQBNPB-69" value="微聊" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="446" width="60" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sxI7bLIg5NEw1aMQBNPB-70" value="Kafka" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="60" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
