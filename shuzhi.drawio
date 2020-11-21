@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T07:34:29.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="B_By6-f_GE42AD6ZO05i" version="13.10.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-21T07:51:47.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="u2bKm65pv1OW4S2SPjyq" version="13.10.0" type="github" pages="4">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1550" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -249,8 +249,8 @@
       <root>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-0" />
         <mxCell id="s-0FntW9MAX7UBRh_tKv-1" parent="s-0FntW9MAX7UBRh_tKv-0" />
-        <mxCell id="veY-QrAIg_Td-UGjv6Cr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="s-0FntW9MAX7UBRh_tKv-1">
-          <mxGeometry x="235" y="660" width="565" height="180" as="geometry" />
+        <mxCell id="veY-QrAIg_Td-UGjv6Cr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#FFE599;sketch=1;glass=1;" vertex="1" parent="s-0FntW9MAX7UBRh_tKv-1">
+          <mxGeometry x="240" y="670" width="565" height="180" as="geometry" />
         </mxCell>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="s-0FntW9MAX7UBRh_tKv-1" vertex="1" treatAsSingle="0">
           <mxGeometry x="170" y="225" width="20" height="725" as="geometry" />
@@ -265,7 +265,7 @@
           <mxGeometry x="15" y="90" width="10" height="550" as="geometry" />
         </mxCell>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-6" value="视频会议SCF" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="s-0FntW9MAX7UBRh_tKv-1" vertex="1" treatAsSingle="0">
-          <mxGeometry x="350" y="225" width="40" height="725" as="geometry" />
+          <mxGeometry x="330" y="225" width="40" height="725" as="geometry" />
         </mxCell>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="s-0FntW9MAX7UBRh_tKv-6" vertex="1">
           <mxGeometry x="15" y="110" width="10" height="30" as="geometry" />
@@ -278,7 +278,7 @@
         </mxCell>
         <mxCell id="6gmSDLhY8X6qHvo-d0Z6-1" value="保存会议" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="s-0FntW9MAX7UBRh_tKv-6" target="6gmSDLhY8X6qHvo-d0Z6-0" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="365" as="sourcePoint" />
+            <mxPoint x="-60" y="365" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-10" value="请求" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="s-0FntW9MAX7UBRh_tKv-1" target="s-0FntW9MAX7UBRh_tKv-5" edge="1">
@@ -287,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-11" value="zoom服务" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="s-0FntW9MAX7UBRh_tKv-1" vertex="1" treatAsSingle="0">
-          <mxGeometry x="450" y="225" width="40" height="725" as="geometry" />
+          <mxGeometry x="430" y="225" width="40" height="725" as="geometry" />
         </mxCell>
         <mxCell id="s-0FntW9MAX7UBRh_tKv-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="s-0FntW9MAX7UBRh_tKv-11" vertex="1">
           <mxGeometry x="15" y="240" width="10" height="90" as="geometry" />
@@ -394,8 +394,11 @@
             <mxPoint x="190" y="858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="veY-QrAIg_Td-UGjv6Cr-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=none;strokeWidth=2;" vertex="1" parent="s-0FntW9MAX7UBRh_tKv-1">
-          <mxGeometry x="250" y="310" width="140" height="140" as="geometry" />
+        <mxCell id="MvEyA8Q0W1WVELMlNFxl-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#9AC7BF;sketch=1;" vertex="1" parent="s-0FntW9MAX7UBRh_tKv-1">
+          <mxGeometry x="240" y="310" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MvEyA8Q0W1WVELMlNFxl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#EA6B66;sketch=1;" vertex="1" parent="s-0FntW9MAX7UBRh_tKv-1">
+          <mxGeometry x="240" y="460" width="260" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
