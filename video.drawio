@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T08:34:50.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wGjcE8yCLyiICI2vxcoy" version="14.2.4" type="github"><diagram id="xVNADt7tzYEhVAf-94fL" name="第 1 页">7VrbkqM2EP0aPY4LIcTl0fiyeUiqpjKpTfLIgNamgpELy2M7X58WCBsEHpOxwZ7d3ZqqlVoX5D7draOWEJms9l+yYL38jUcsQaYR7RGZItPEBnHhPyk5FBJqKcEiiyPV6SR4if9l5Ugl3cYR29Q6Cs4TEa/rwpCnKQtFTRZkGd/Vu33jSf2r62DBGoKXMEia0j/jSCwLqWs6J/kvLF4syy9j2ytaVkHZWf2SzTKI+K4iIjNEJhnnoiit9hOWSOWVeinGzc+0HheWsVR0GfCV7p/2Vvh2+Oo+TV6f5wc+PjyRYpa3INmqH6wWKw6lBmDda1ncrpJf428siVOo+fBdEYfxOsg/Dm0TnoqMJ7KJZfGKCZZBQ6JGPJ9k/m4ZC/ayDkI56w7MBmRLsYKhUwxFQFIEMCQ71pMkWG/i13xBBkgyFm6zTfzGfmebwmCk9I3JFQXJOIkXKcgElxNv4DtxuvhDVqbEBgnfCrmiydFg5GClBpiC7c/qFx9RA3NnHH5PdoAuaoDpKKCVpRNV3Z3MxlKiZcVi7NI+AmWpi+PMJzChoPD8H9jSy9hW1L7mcSryJVAf0amGI8/Eki94GiRVJDtp7bzdnVUlpjVNek1N4hZNOn0pEjvfiyYt3E2Vbl+qtJuanNnIc9F4jmYUAdJjO5dMkOtJiTvPmxzkWWjsopmF/AnyxmgGQ2byD/rIgvUeInpoeOVC8BU0sDQay01CyhIe/pOL4Hf+JcPCyDDL+t95HcM6lWC6V4GjqB2qtQquldjCIm2jEUG2YO8hSztHoIwlgYB4WN/9WrBTQ5+lhVaMxKxbCSZk5Nr1WTZ8m4VMDdSM4LiSj9tF08MyJrZZei2qfM2gyY+CzZJFahw0K56Rw7mPhYT7yRgRVS3Qdryy+QS2rBwqlY5QF8p7CKhJfZPCjoZzYZW94VwGm1oAcJFLkT8rfXre4uU/ScnHSAnxrI+QEof2tpfiB95LsfGuMrXNFLv0vpsptr4bXRLjzsTEbGEmn1SXlN7bLs1WlueTnMEBp7ORO8ljO5A7WiF3IHeR7+R9oGC0bA23Znmw7YMb1Wie4QzJ8nD3mH5jmmeaxsg2Kv/MQSkfbuYehuZ8JY0rcPfoFQzujjB62hR9U7iWvELhy9Jzwc0xcltJXe7Uni8Lvo/8cQeadwPvJppzu2RQ77YGMwvsjbQ9ldgj2xrWp5u76Gf26eHA03zaMgY+lrktPg3eOUfeNM+wTGWO5rRjt2Vh1I5tI9B5UXCnqgl83SM3d26j5tnXOKkzGM7a8duyNA7Wt396j+ifR0RxPVZ7lnXDWH3Z3c+ZQQcTKk4LvccFioeNC2ZLuuaDqZhxKHj2AyZijhEd6Wcys+02yOjtgNvhqu9uB1zz/QNu3QmcbqkCy+tNlR1yWB29AuwtjQLpoz+cYxyfCGhbYhNd2pahJL2h25K9eBxHuXAHXddlV0/pT5dNvvFZdUlpN2X2F3Wa2d4oBj8V4fJa9tZ296knxUz7hlzslhSrgkeZ0bySdWnIY/2FxhmS3mRvWmjDup/1zd6amZqh2P4tcT/zwuFqaq35tw5OV5StC/P0DXLz6P4AR7oz+F88g5XXMMMfxW172DSq2fKoaOYiv8iZFJkWsy3T0nwu48h8qkfypinyerkkMez6fiAvnU4WgEemVTMCTMvHFN0fTwyWlD1rZF0M1OvFGolVv6en9q0SQ1A9vTEtup9e6pLZfw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T08:38:20.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DTak1Cr7S0bQ7fBqJ8j0" version="14.2.4" type="github">
+  <diagram id="xVNADt7tzYEhVAf-94fL" name="第 1 页">
+    <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-3" value="SCF" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="30" width="40" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-3" vertex="1">
+          <mxGeometry x="15" y="90" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-3" vertex="1">
+          <mxGeometry x="15" y="410" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-6" value="是否有可用会议室" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.02;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="V5x-x4cvyV8-CbPFyoAy-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="133.86" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.3;exitY=0.798;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="V5x-x4cvyV8-CbPFyoAy-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-10" value="腾讯会议" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="394" y="30" width="40" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-10" vertex="1">
+          <mxGeometry x="15" y="185" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-10" vertex="1">
+          <mxGeometry x="15" y="300" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-10" vertex="1">
+          <mxGeometry x="15" y="555" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-12" value="注册该用户到腾讯" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.14;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="V5x-x4cvyV8-CbPFyoAy-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="220.60000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=1.02;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="V5x-x4cvyV8-CbPFyoAy-11" edge="1" target="V5x-x4cvyV8-CbPFyoAy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-15" value="请求腾讯创建会议" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.3;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="V5x-x4cvyV8-CbPFyoAy-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.5" y="336.64" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=0.883;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="V5x-x4cvyV8-CbPFyoAy-14" edge="1" target="V5x-x4cvyV8-CbPFyoAy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-18" value="保存该会议到数据库" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="V5x-x4cvyV8-CbPFyoAy-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-19" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.02;exitY=0.818;entryX=1;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="V5x-x4cvyV8-CbPFyoAy-17" target="V5x-x4cvyV8-CbPFyoAy-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-20" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry y="30" width="20" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-20" vertex="1">
+          <mxGeometry x="5" y="60" width="10" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-21" value="WF" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="30" width="50" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-21" vertex="1">
+          <mxGeometry x="20" y="70" width="10" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="V5x-x4cvyV8-CbPFyoAy-21" vertex="1">
+          <mxGeometry x="20" y="550" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-24" value="请求" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.04;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="V5x-x4cvyV8-CbPFyoAy-22" edge="1" source="V5x-x4cvyV8-CbPFyoAy-23">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="20" y="111" as="sourcePoint" />
+            <mxPoint x="100" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-25" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.977;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="V5x-x4cvyV8-CbPFyoAy-23" edge="1" source="V5x-x4cvyV8-CbPFyoAy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="530" as="sourcePoint" />
+            <mxPoint x="40" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-28" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="V5x-x4cvyV8-CbPFyoAy-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5x-x4cvyV8-CbPFyoAy-27" value="轮询会议是否结束" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="V5x-x4cvyV8-CbPFyoAy-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="560" as="sourcePoint" />
+            <mxPoint x="410" y="594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
