@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T02:34:32.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="8nluGOdsvJ-k5cxfrrxw" version="15.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-14T02:35:30.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="rce9lpKBmMDhdl1_Trki" version="15.2.9" type="github" pages="5">
   <diagram id="Es_KrPeHeZ678epylgb1" name="第 1 页">
     <mxGraphModel dx="1698" dy="811" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1391,7 +1391,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GjKVv05ZVnLRPVNiGADH-21" value="画像开发平台后端" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=15;" vertex="1" parent="ChCeiTd0pNiw1TePjtPf-1">
+        <mxCell id="GjKVv05ZVnLRPVNiGADH-21" value="画像开发平台后端" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ChCeiTd0pNiw1TePjtPf-1">
           <mxGeometry x="-1435" y="1490" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GjKVv05ZVnLRPVNiGADH-24" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="ChCeiTd0pNiw1TePjtPf-1">
@@ -1417,7 +1417,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GjKVv05ZVnLRPVNiGADH-25" value="Session_Proxy" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=15;" vertex="1" parent="ChCeiTd0pNiw1TePjtPf-1">
+        <mxCell id="GjKVv05ZVnLRPVNiGADH-25" value="Session_Proxy" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ChCeiTd0pNiw1TePjtPf-1">
           <mxGeometry x="-1440" y="1730" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GjKVv05ZVnLRPVNiGADH-37" value="七彩石" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=15;" vertex="1" parent="ChCeiTd0pNiw1TePjtPf-1">
