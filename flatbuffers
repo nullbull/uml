@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T12:22:54.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="DsP0O2sJzlOoPXDuJqin" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T12:26:14.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="fjdF3eg6FrFyKWkwYLsV" version="15.7.3" type="github">
   <diagram id="c1Li7rPnllS39_lWGYDR" name="Page-1">
-    <mxGraphModel dx="1298" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="1331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,10 +296,10 @@
         <mxCell id="NW2IUqxQKeDAwc341kOI-116" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;12 0 0 0&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="191" y="300" width="99" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NW2IUqxQKeDAwc341kOI-118" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Tahoma;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=-0.027;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="NW2IUqxQKeDAwc341kOI-121">
+        <mxCell id="NW2IUqxQKeDAwc341kOI-118" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Tahoma;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="380" as="sourcePoint" />
-            <mxPoint x="903.5" y="380" as="targetPoint" />
+            <mxPoint x="174.25" y="389.43" as="sourcePoint" />
+            <mxPoint x="897.75" y="389.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NW2IUqxQKeDAwc341kOI-119" value="103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Tahoma;" vertex="1" connectable="0" parent="NW2IUqxQKeDAwc341kOI-118">
@@ -369,6 +369,21 @@
         </mxCell>
         <mxCell id="NW2IUqxQKeDAwc341kOI-148" value="hp偏移" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="439" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2IUqxQKeDAwc341kOI-149" value="weapon偏移" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="306" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2IUqxQKeDAwc341kOI-150" value="pos data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2IUqxQKeDAwc341kOI-151" value="补0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="652" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2IUqxQKeDAwc341kOI-153" value="hp=500" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="721" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NW2IUqxQKeDAwc341kOI-154" value="name偏移" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="360" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
